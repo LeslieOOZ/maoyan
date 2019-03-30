@@ -6,4 +6,4 @@
 - 思路：
   - 一共十部电影，查询源代码发现爬取的信息都在\<dd>\</dd>标签中
   - 根据源代码构造正则表达式
-
+- ![源码](https://github.com/LeslieOOZ/maoyan/blob/master/ph.png)
